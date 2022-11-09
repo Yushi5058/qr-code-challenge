@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+
+* {
+    padding:0;
+    margin:0;
+    font-size:62.5%;
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+    min-height:100vh;
+    display:flex;
+    align-items: center;
+    }
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius:15px;
+    width:70%;
+    margin:0 auto;
+}
+
+img {
+    width:200px;
+    border-radius:10px;
+    margin:0 auto;
+}
+
+.container {
+    width:150px;
+    margin:0 auto;
+    font-size:15px;
+    font-family: 'Cairo',sans-serif;
+    line-height: 1.5;
+    padding:1em 0 1em 0;
+}
+
+h2 {
+    width:200px;
+    font-weight: 700;
+    color:hsl(218, 44%, 22%);
+    padding-bottom:1em;
+    font-size:17px;
+}
+p {
+    font-weight: 400;
+    color:hsl(220, 15%, 55%);
+    padding-bottom:1.5em;
+}
+
+@media screen and (min-width:1440px) {
+    .card {
+        width:20%;
+    }
+}
