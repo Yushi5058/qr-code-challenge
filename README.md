@@ -12,4 +12,4 @@ See the [QR Code Generator](https://yushi5058.github.io/qr-code-challenge/) in a
 
 ### Conclusion
 
-n conclusion, the QR Code Challenge project was a great opportunity for me to practice my skills in web development. I had the chance to solidify my understanding of HTML and CSS while also learning new concepts such as semantic HTML, CSS custom properties, flexbox, and mobile-first workflow. These new concepts allowed me to create a webpage that was responsive and user-friendly for different devices. Overall this project was a great tool for me to enhance my skills and gain knowledge in web development.
+In conclusion, the QR Code Challenge project was a great opportunity for me to practice my skills in web development. I had the chance to solidify my understanding of HTML and CSS while also learning new concepts such as semantic HTML, CSS custom properties, flexbox, and mobile-first workflow. These new concepts allowed me to create a webpage that was responsive and user-friendly for different devices. Overall this project was a great tool for me to enhance my skills and gain knowledge in web development.
